@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking for Building the future with programming
 - 📫 How to reach me : amirnurollahidev@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: If you learn programming for money, you will never get rich..!
 
 <!---
